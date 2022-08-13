@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brian-mukuka-bptn
+- 👋 Hi, I’m Brian Mukuka
 - 👀 I’m interested in react-native nextjs
 - 🌱 I’m currently learning vue js
 
